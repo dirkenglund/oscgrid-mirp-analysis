@@ -1,0 +1,2 @@
+[    2072ms] [WARNING] [.WebGL-0x13408e48400]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels @ https://figshare.com/articles/dataset/Open_Dataset_of_Real-World_Oscillograms_from_Electric_Power_Grids/28465427:0
+[    2093ms] [WARNING] [.WebGL-0x13408e46000]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels @ https://figshare.com/articles/dataset/Open_Dataset_of_Real-World_Oscillograms_from_Electric_Power_Grids/28465427:0
